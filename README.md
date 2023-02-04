@@ -1,6 +1,13 @@
 # ircampsg.github.io
 Ircam Patching Style Guides : guide des bonnes pratiques et outils pour des patches plus durables
 
+Rédaction en cours du guide des bonnes pratiques : 
+	
+* [document partagé](https://docs.google.com/document/d/1DkeBZTyxq9hNiS9KM6nopzfdL6JkV7vhkxyA8KBNcI0/edit?usp=sharing)
+* [slides](https://docs.google.com/presentation/d/e/2PACX-1vRLaxeaecwIzTk74gxoKtkxkjWx4YQ2DmqrLgj_ePM_SKx9xuPnbxP2jZ0YViv1QUaHQfqzNcEjrGc8/pub?start=false&loop=true&delayms=3000) 
+
+
+
 ## Good Practices
 
 * Documentation is better than no documentation
