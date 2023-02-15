@@ -32,3 +32,17 @@ Rédaction en cours du guide des bonnes pratiques :
 * Version tracking (git)
 * Validation tools
 * Data mining tools
+
+## la contribution de ChatGPT
+Max programming style is a programming style commonly used in the Max programming language, which is often used for audio and multimedia programming. Here are some good practices concerning Max programming style:
+
+1. Use clear and descriptive object names: Use object names that clearly describe their function and purpose, so that it is easier for you and others to understand the patch. For example, use [metro] to indicate a metronome object, [gain~] to indicate a gain control object, etc.
+1. Keep your patch organized: Use different colors for different types of objects, group objects that are related or part of the same function, and use comments to explain complex sections of your patch.
+1. Use subpatches to simplify complex patches: When a section of your patch becomes too complex, you can create a subpatch to simplify it. This helps you to keep your main patch organized and easy to understand.
+1. Avoid spaghetti connections: Try to keep your patch connections as simple and direct as possible. Avoid overlapping or crossing connections as much as possible, as it can make it difficult to understand the patch.
+1. Use message boxes for communication between objects: Instead of connecting objects directly, use message boxes to send data between objects. This makes it easier to understand the flow of data in your patch.
+1. Use abstraction to create reusable code: When you have created a section of patch that you might need to use again in another patch, you can turn it into an abstraction. This way, you can reuse your code and avoid duplicating work.
+1. Test your patch regularly: Make sure to test your patch regularly to ensure it is functioning as expected. Try to catch errors early, and debug them systematically to avoid confusion.
+
+These are some good practices that can help you write cleaner, more organized, and more efficient Max patches. Remember, as with any programming language, good programming practices can make your work more efficient, and help you create more complex and sophisticated programs.
+
