@@ -8,6 +8,17 @@ Rédaction en cours du guide des bonnes pratiques :
 
 
 
+# Groupe de travail
+## Réunions et compte rendu
+### première réunion : 21 fevrier 2023
+- présents : Serge, Benjamin et Augustin
+- présentation du fonctionnement du groupe de travail :
+    - reunions régulières
+    - document partagé (lien sur la page du projet)
+- page du projet : https://slemouton.github.io/ircampsg.github.io/
+- à faire (serge) : diffusion de l'outil "patcher dashboard"
+- trouver le nom du groupe de travail ?
+
 ## Good Practices
 
 * Documentation is better than no documentation
@@ -31,7 +42,8 @@ Rédaction en cours du guide des bonnes pratiques :
 * Conversion to other audio software environements (max to pd/pd to max) 
 * Version tracking (git)
 * Validation tools
-* Data mining tools
+* Data mining tools (checking all the patchs from sidney, for example ...)
+* the reality check project (Miller Puckette/Eric Lindeman) : http://msp.ucsd.edu/tools/reality/
 
 ## la contribution de ChatGPT
 Max programming style is a programming style commonly used in the Max programming language, which is often used for audio and multimedia programming. Here are some good practices concerning Max programming style:
