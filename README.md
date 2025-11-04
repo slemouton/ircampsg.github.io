@@ -58,3 +58,50 @@ Max programming style is a programming style commonly used in the Max programmin
 
 These are some good practices that can help you write cleaner, more organized, and more efficient Max patches. Remember, as with any programming language, good programming practices can make your work more efficient, and help you create more complex and sophisticated programs.
 
+## code review
+
+etude critique de patches : 
+
+cf https://hal.science/hal-01944619v1
+
+Serge Lemouton, Samuel Goldszmidt. La préservation des œuvres du répertoire IRCAM : Présentation du modèle Sidney et analyse des dispositifs temps réel. Journées d’Informatique musicale, 2016, Albi, France. hal-01944619
+
+collection de patch de tests
+(choisis pseudo-aleatoirement dans sidney)
+
+	Work	composer	year	Rim	patch date
+	Mantra	stockhausen	1970	puckette	2007
+	!Prologue	grisey	1978	daubresse	2012
+	Jupiter	manoury	1987	puckette	2011
+	Jupiter	manoury	1987	lippe	2011
+	Congruences	jarrell	1989	muller	2013
+	Spirali	stroppa	1989	lemouton	2014
+	Rhizomes	jarrell	1993	hummel	2013
+	Alma Luvia	baschet	1993	baschet	2014
+	Entsagung	essl	1993	lemouton	2014
+	En echo	manoury	1994	stuck	2010
+	!Richiamo	fedele	1994	de coudenhove	2013
+	Metallics	maresz	1995	lorieux	2012
+	!Animus	francesconi	1995	meudic	2014
+	Spira Manes	baschet	1995	lemouton	1995
+	Spira Manes	baschet	1995	lemouton	1995
+	Anthèmes II	boulez	1997	nouno	2013
+	Related Rocks	lindberg	1998	lemouton	2014
+	!Ballata	francesconi	2002	daubresse	2002
+	Noon	manoury	2003	lemouton	2011
+	!4th quartet	harvey	2003	nouno	2011
+	Filastrocca	baschet	2003	faia	2014
+	Swarming essence	fujikura	2006	poletti	2010
+	!Wagner Dream	harvey	2007	nouno	2012
+	!AnimusII	meudic	2007	francesconi	2013
+	!Speakings	harvey	2008	nouno	2011
+	!La Muette	baschet	2010	lemouton	2010
+	Mimesys	vitoria	2011	vitoria	2011
+	!Quartett	francesconi	2011	lemouton	2013
+	Foris	cendo	2012	bruckert	2012
+	Unendlichkeit	kahn	2012	goepfer	2012
+	!Partita II	manoury	2012	lemouton/nouno	2012
+	!Germination	herve	2013	lemouton	2010
+	!Branenwelten	platz	2013	meier	2013
+
+
